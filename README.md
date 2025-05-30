@@ -72,7 +72,15 @@ Retrieves values from the GUI input fields. Validates that site and password are
   Two buttons: Save and Search trigger the respective functions. A note at the bottom reminds users that the data is encrypted.
   <br/><br/>
 
+  <hr width="80%"/>
 
+<!-- Step 5 -->
+  <h2>🖼️ 5. Password Manager Complete</h2>
+  <img src="https://i.imgur.com/BAD38VC.png" height="80%" width="80%" alt="Password generator Steps"/><br/>
+  
+  <br/><br/>
+
+  
 <br />
 </p>
 
